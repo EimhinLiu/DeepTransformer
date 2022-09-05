@@ -1,0 +1,31 @@
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_9 
+ROOT
+HETATM    1  O   UNL     1      -4.097   1.389  -0.298  1.00  0.00    -0.321 OA
+HETATM    2  O   UNL     1      -5.984   0.169  -0.388  1.00  0.00    -0.265 OA
+HETATM    3  C   UNL     1       1.870  -0.751  -0.251  1.00  0.00     0.001 C 
+HETATM    4  C   UNL     1       2.607   0.516   0.233  1.00  0.00    -0.009 C 
+HETATM    5  C   UNL     1       0.424  -0.839   0.256  1.00  0.00    -0.005 C 
+HETATM    6  C   UNL     1      -0.360   0.418  -0.239  1.00  0.00     0.001 C 
+HETATM    7  C   UNL     1      -1.865   0.377   0.204  1.00  0.00    -0.014 C 
+HETATM    8  C   UNL     1       4.037   0.251  -0.332  1.00  0.00     0.062 C 
+HETATM    9  C   UNL     1       1.854   1.738  -0.321  1.00  0.00     0.013 C 
+HETATM   10  C   UNL     1       0.374   1.740   0.104  1.00  0.00     0.007 C 
+HETATM   11  C   UNL     1       2.833  -1.880   0.101  1.00  0.00     0.009 C 
+HETATM   12  C   UNL     1      -2.487  -0.944  -0.309  1.00  0.00     0.005 C 
+HETATM   13  C   UNL     1      -0.258  -2.130  -0.220  1.00  0.00     0.006 C 
+HETATM   14  C   UNL     1       4.234  -1.272  -0.099  1.00  0.00     0.038 C 
+HETATM   15  C   UNL     1      -1.731  -2.185   0.177  1.00  0.00     0.006 C 
+HETATM   16  C   UNL     1       2.680   0.635   1.784  1.00  0.00     0.018 C 
+HETATM   17  C   UNL     1      -2.668   1.495  -0.481  1.00  0.00     0.188 C 
+HETATM   18  C   UNL     1      -2.010   0.537   1.738  1.00  0.00     0.018 C 
+HETATM   19  C   UNL     1      -3.969  -1.035   0.032  1.00  0.00     0.116 C 
+HETATM   20  C   UNL     1       4.240   0.595  -1.813  1.00  0.00     0.046 C 
+HETATM   21  C   UNL     1      -4.761   0.211  -0.270  1.00  0.00     0.259 C 
+ENDROOT
+BRANCH   8  22
+HETATM   22  O   UNL     1       5.036   0.965   0.393  1.00  0.00    -0.389 OA
+HETATM   23  H   UNL     1       5.138   0.571   1.275  1.00  0.00     0.210 HD
+ENDBRANCH   8  22
+TORSDOF 1
